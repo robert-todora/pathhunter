@@ -70,7 +70,7 @@ requests>=2.31.0
 
 ## Responsible use
 
-Only run this against systems you own or have explicit written permission to test. Unauthorized scanning of systems you don't control may violate computer-misuse laws in your jurisdiction.
+Only run this against systems you own or have explicit written permission to test.
 
 ## License
 
