@@ -72,7 +72,3 @@ requests>=2.31.0
 
 Only run this against systems you own or have explicit written permission to test.
 
-## License
-
-MIT
-
