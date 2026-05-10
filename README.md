@@ -23,7 +23,7 @@ HTTP path and method enumeration tool. Combines a path wordlist with an optional
 ## Install
 
 ```bash
-git clone https://github.com/<you>/pathhunter
+git clone https://github.com/robert-todora/pathhunter.git
 cd pathhunter
 pip install -r requirements.txt
 ```
